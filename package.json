@@ -27,8 +27,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "_comment1": "以下はデプロイするたびにgh-pagesのCLIコマンドを入力する手間を省くために、スクリプト化で対応",
-    "_comment2": "npm run deployで以下を実行できる",
     "deploy": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
