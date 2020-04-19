@@ -22,6 +22,7 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0"
   },
+  "homepage": "http://chaiboy86.github.io/Chaiboy86",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
